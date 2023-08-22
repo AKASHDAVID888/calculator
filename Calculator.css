@@ -1,0 +1,12 @@
+body{
+    margin-top: 200px;
+    background-image: url('math.jpg');
+    align-items: center;
+}
+h1{
+    color:orange;;
+    -webkit-text-stroke: 1.5px black;
+    text-align: center;
+    text-decoration:underline rgb(0, 0, 0);
+    font-size: 70px;
+}
